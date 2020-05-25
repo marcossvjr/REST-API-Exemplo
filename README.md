@@ -2,8 +2,8 @@
 Exemplo de REST API em .net core
 
 Requisitos:
-- ter o Visual Studio instalado;
-- ter o SDK do net core 2.1 instalado;
+- ter o Visual Studio instalado (Pode ser a versão Community: https://visualstudio.microsoft.com/pt-br/vs/community/);
+- ter o SDK do net core 2.1 instalado (https://dotnet.microsoft.com/download/dotnet-core/thank-you/sdk-2.1.806-windows-x64-installer);
 - ter um software para fazer requisições HTTP (Postman, Talend API Tester);
 
 # Abrir o arquivo da solution (API REST Exemplo.sln) com o Visual Studio e rodar a aplicação. #
