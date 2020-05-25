@@ -18,7 +18,7 @@ Requisitos:
 
 ##### GET
 ###### Descrição: Retorna um jogo específico
-###### URI: http://localhost:52080/api/Jogo/{ID DO JOGO}
+###### URI: http://localhost:52080/api/Jogo/{ID_DO_JOGO}
 
 ##### POST
 ###### Descrição: Cria um jogo
@@ -27,9 +27,9 @@ Requisitos:
 
 ##### PUT
 ###### Descrição: Atualiza um jogo
-###### URI: http://localhost:52080/api/Jogo/{ID DO JOGO}
+###### URI: http://localhost:52080/api/Jogo/{ID_DO_JOGO}
 ###### Parâmetros: nome {string}
 
 ##### DELETE
 ###### Descrição: Remove um jogo
-###### URI: http://localhost:52080/api/Jogo/{ID DO JOGO}
+###### URI: http://localhost:52080/api/Jogo/{ID_DO_JOGO}
